@@ -1,8 +1,27 @@
-# React + Vite
+1. Dynamic Data Table
+   Data Fetching: Displays paginated and searchable data fetched from the API.
+   API Endpoint: https://api.razzakfashion.com/
+   Example: https://api.razzakfashion.com/?paginate=5&search=Kiehn
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+   Features:
+   Search and pagination controls.
+   Error handling for API failures.
+   Loading indicators during data fetch.
 
-Currently, two official plugins are available:
+2. Customizable T-Shirt Design Tool
+   T-Shirt Customization: Users can upload a logo, drag it to position, resize it while maintaining aspect ratio, and rotate it.
+   Logo Upload: Supports image file types like JPEG, PNG, and GIF.
+   Final Design Output: Generates a downloadable image with the T-shirt and logo combined.
+   Interactive Controls:
+   Drag-and-drop functionality.
+   Resize and rotate the logo using sliders.
+   Keyboard shortcuts for precise adjustments.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- Installation  -->
+
+git clone [<repository_url>] (https://github.com/mehedihasananik/React-Task-Print-Manzil-.git)
+cd <repository_name>
+npm install
+npm run dev
+
+Let me know if you need any further details!
