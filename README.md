@@ -21,11 +21,11 @@
 
 <!-- Installation  -->
 
-git clone [<repository_url>] (https://github.com/mehedihasananik/React-Task-Print-Manzil-.git)
+git clone https://github.com/mehedihasananik/React-Task-Print-Manzil-.git
 
 ##
 
-cd <repository_name>
+cd > repository_name
 
 ##
 
@@ -38,3 +38,7 @@ npm run dev
 ##
 
 Let me know if you need any further details!
+
+Contact:
+Email:mehedihasananik74@gmail.com
+Phone: 01831062698
