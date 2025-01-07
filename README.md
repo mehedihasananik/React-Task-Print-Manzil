@@ -21,7 +21,7 @@
 
 <!-- Installation  -->
 
-git clone https://github.com/mehedihasananik/React-Task-Print-Manzil-.git
+git clone https://github.com/mehedihasananik/React-Task-Print-Manzil.git
 
 ##
 
